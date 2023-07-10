@@ -1,1 +1,5 @@
-# Assignment 1 Observation
+# Assignment 1 Observations
+  In this assignment, I have looked at the 'coupons.csv' data file. I will briefly list some of the observations I have made about the data. To find the complete list of observations I have made and how I got them, visit https://github.com/bgorantla/Practical-Application-Assignment-5.1/blob/main/Assignment1.ipynb.
+  Before making any observations, I have cleaned up the dataframe by replacing some NaN values, changing the name of a column because there was a typo, removing an entire column because it was redundant, etc.
+  The bar coupon acceptance rate for people that go to the bar more than three times a month is more than double the coupon acceptance rate of people who go the bar less than three times a month (%37 as opposed to %77). Another observation I have made is that people are much more likely to accept coupons that expire in a day as apposed to coupons that expire in 2 hours.
+  To see how I came to the above conclusions about the data and more, please visit the link I have posted above.
